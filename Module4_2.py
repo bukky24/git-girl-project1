@@ -1,4 +1,4 @@
-# This program convert the dictionary Fin_status to Panda series
+# This program converts the dictionary Fin_status to Panda series
 import numpy as np
 import pandas as pd
 
